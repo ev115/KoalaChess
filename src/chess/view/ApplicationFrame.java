@@ -1,6 +1,8 @@
 package chess.view;
 
 import java.awt.*;
+
+// test change
 import java.awt.event.WindowEvent;
 
 import javax.swing.*;
